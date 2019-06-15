@@ -1,2 +1,2 @@
 # Opinow
-Sistema para Avaliação de acessibilidade em estabelecimentos em Java Web.
+Sistema para Avaliação de acessibilidade dos estabelecimentos visitados em Java Web.
